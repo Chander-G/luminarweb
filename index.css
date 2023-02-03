@@ -1,0 +1,24 @@
+#h3{
+    color: blueviolet;
+}
+#p2{
+    color: rgb(118, 86, 148);
+}
+.b4{
+    background-color: rgb(65, 22, 105);
+    width: 200px;
+    height: 50px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+.c2 input{
+    border: none;
+}
+#t1 {
+    border: none;
+    width: 100%;
+}
+#c1{
+    border: none;
+}
