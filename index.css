@@ -22,3 +22,56 @@
 #c1{
     border: none;
 }
+#heading{
+    color: rgb(205, 43, 226);
+    text-align: center;
+}
+.l2{
+    color: rgb(165, 86, 238);
+}
+.w1{
+    width: 100%;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: medium;
+}
+span{
+    color: rgb(170, 119, 218);
+}
+#z1:hover{
+    transform: scale(1.1);
+    transition: 1s ease-in-out;
+    background-color: #e2e0dd;
+    box-shadow: 2px 2px 2px;
+}
+#a7{
+    margin-top: 60px;
+    background-color: azure;
+    color: #5e068a;
+    font-size: 18px;
+    font-weight: 600;
+    border: 2px solid #5e068a;
+    border-radius: 50px;
+}
+h5{
+    color:rgb(170, 119, 218);
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color:rgb(170, 119, 218);
+}
+#f1{
+    color:rgb(170, 119, 218);
+}
+#s1{
+    color: aliceblue;
+}
+#s2{
+    color: black;
+}
